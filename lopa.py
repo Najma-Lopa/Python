@@ -1,0 +1,1 @@
+print("Ami valo na,Nosto")
